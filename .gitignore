@@ -1,0 +1,5 @@
+/datasets
+*.png 
+*.dot
+.ipynb_checkpoints
+#깃 버전 관리에서 제외시킴 , *->관련 형식 모두 제외.
